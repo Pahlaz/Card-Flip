@@ -9,6 +9,7 @@ body {
 	display: flex;
 	width: inherit;
 	height: inherit;
+	background: url('../images/background.jpg') no-repeat center center;
 }
 
 .card {
